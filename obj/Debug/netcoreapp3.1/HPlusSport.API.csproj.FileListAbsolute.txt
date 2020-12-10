@@ -31,5 +31,4 @@ C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\bin\Debu
 C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\obj\Debug\netcoreapp3.1\HPlusSport.API.csproj.CopyComplete
 C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\obj\Debug\netcoreapp3.1\HPlusSport.API.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\obj\Debug\netcoreapp3.1\HPlusSport.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Ject\asp.net core\linda\HplusSport\HPlusSport.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
