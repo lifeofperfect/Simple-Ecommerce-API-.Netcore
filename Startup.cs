@@ -37,6 +37,13 @@ namespace HPlusSport.API
                     //options.SuppressModelStateInvalidFilter = true;
                 });
 
+            services.AddCors(options=> {
+                options.AddDefaultPolicy(builder=> {
+                    builder.WithOrigins("https://localhost:44317")
+                        .AllowAnyHeader().AllowAnyMethod();
+                });
+            });
+
             services.AddApiVersioning(options=>
             {
                 options.ReportApiVersions = true;
@@ -59,6 +66,8 @@ namespace HPlusSport.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseAuthorization();
 
